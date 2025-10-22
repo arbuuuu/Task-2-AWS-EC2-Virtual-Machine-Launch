@@ -1,4 +1,4 @@
-Objective
+Objective:
 
 To understand how cloud virtual machines work by creating, configuring, and connecting to a cloud-based server instance using a free-tier AWS account.
 This task helps in learning Infrastructure-as-a-Service (IaaS) — the foundation of cloud computing.
